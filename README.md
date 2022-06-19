@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **rmwaqasn@gamil.com / 03443416914**
 
-- 📄 Know more about me [https://drive.google.com/file/d/1UIr3FsKgeba13LMqc6kXK_wWvBPUxeCF/view?usp=sharing](https://drive.google.com/file/d/1UIr3FsKgeba13LMqc6kXK_wWvBPUxeCF/view?usp=sharing)
+- 📄 Know more about me [Click To See My Resume](https://drive.google.com/file/d/1IbnAATQFZXM7lzqTujcsZfMhLFx9w7cF/view?usp=sharing)
 
 - ⚡ Fun fact **I think......**
 
