@@ -37,8 +37,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rmwaqasn&&theme=xcode)](https://github.com/rmwaqasn)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmwaqasn&show_icons=true&locale=en&layout=compact" alt="rmwaqasn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmwaqasn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rmwaqasn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmwaqasn&show_icons=true&locale=en" alt="rmwaqasn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmwaqasn&show_icons=true&locale=en&theme=tokyonight" alt="rmwaqasn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmwaqasn&" alt="rmwaqasn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmwaqasn&&theme=tokyonight" alt="rmwaqasn" /></p>
