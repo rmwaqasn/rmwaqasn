@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **JavaScript, React Native, Html, CSS, Unity**
 
-- 📫 Reach me at **rmwaqasn@gamil.com / 03443416914**
+- 📫 Reach me at **rmwaqasn@gamil.com / 03422716934**
 
 - 📄 Know more about me [Click To See My Resume](https://drive.google.com/file/d/1IbnAATQFZXM7lzqTujcsZfMhLFx9w7cF/view?usp=sharing)
 
