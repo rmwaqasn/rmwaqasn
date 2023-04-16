@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/rmwaqasn)
 
 <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-<h3 align="center">Passionate about Mobile App developing from Pakistan</h3>
+<h3 align="center">Passionate About Cross-Platform Application Development From Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/rmwaqasn" target="blank"><img src="https://img.shields.io/twitter/follow/waqasali?logo=twitter&style=for-the-badge" alt="rmwaqasn" /></a> </p>
 
-- 🌱 I'm currently **Building My React Native Skills.**
+- 🌱 I'm currently **Building My Mobile App Development Skills.**
 
 - 😄 I'm looking forward **To getting started my career. I know that 'Internship' will give me an opportunity to get a hands-on experience.**
 
-- 👨‍💻 I'm interested in **mobile app developing Such as (React Native), Graphic designing, Fine video/Audio editing, Photo Editing & Much more.**
+- 👨‍💻 I'm interested in **Mobile app Developing through (Flutter / React Native) & Graphic designing, Fine video/Audio editing, Photo Editing & Much more.**
 
-- 👀 I'm looking for **React Native Internship Programs.**
+- 👀 I'm looking for **Mobile App Development Internship Programs.**
 
-- 💬 Ask me about **JavaScript, React Native, Html, CSS, Unity**
+- 💬 Ask me about **Dart, JavaScript, React Native, Html, CSS, Unity**
 
 - 📫 Reach me at **rmwaqasn@gamil.com / 03422716934**
 
 - 📄 Know more about me [Click To See My Resume](https://drive.google.com/file/d/1IbnAATQFZXM7lzqTujcsZfMhLFx9w7cF/view?usp=sharing)
 
-- ⚡ Fun fact **I think......**
+- ⚡ Fun fact **I think.........**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
